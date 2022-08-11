@@ -1,0 +1,23 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+.container
+{
+    background-color: aquamarine;
+    text-align: center;
+    display: contents;
+    justify-content: center;
+    align-items: center;
+}
+.box
+{
+    background-color:rgb(211, 163, 255);
+    height: 400px;
+    width: 400px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
